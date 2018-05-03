@@ -1,4 +1,6 @@
 # HelloWorld
-1st App. Go Easy. haha 
-Brought to u by- //AngelOfDeath
-#PeaceOut
+My first Android App on Android Studio.
+
+## Software Used
+Android Studio 3.1
+Genymotion Emulator for running the app
